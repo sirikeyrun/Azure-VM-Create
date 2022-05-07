@@ -33,14 +33,14 @@
     },
     "imageSku": {
       "type": "string",
-      "defaultValue": "16.04-LTS",
+      "defaultValue": "20.04-LTS",
       "metadata": {
         "description": "Maps to the sku in the Azure Stack Platform Image Repository manifest file Eg: 12.SP1, 6.7 , 7.2"
       }
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_A1",
+      "defaultValue": "Standard_A2",
       "metadata": {
         "description": "The size of the Virtual Machine."
       }
